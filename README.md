@@ -4,8 +4,8 @@ Site institucional estático para a MONITORE+, empresa de instalação de câmer
 
 ## Estrutura
 
-- `index.html`, `css/style.css` e `js/main.js`: versão de desenvolvimento.
-- `public/`: cópia publicada pelo Vercel conforme `vercel.json`.
+- `index.html`, `css/style.css`, `js/main.js` e `img/`: arquivos estáticos servidos pelo Vercel a partir da raiz.
+- `public/`: cópia sincronizada da página e dos recursos publicados.
 - `img/hero-security.jpg`: imagem otimizada usada no destaque.
 - `img/gallery-*-preview.jpg`: imagens otimizadas usadas na galeria de referências visuais.
 
